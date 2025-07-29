@@ -60,7 +60,7 @@
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/AmSh4/TruthLensAI
+git clone https://github.com/AmSh4/Truth_Lens_AI
 cd TruthLensAI
 pip install -r requirements.txt
 streamlit run app/main.py
