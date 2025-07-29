@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+torchvision
+nltk
+textblob
+pymongo
+matplotlib
+seaborn
+Pillow
